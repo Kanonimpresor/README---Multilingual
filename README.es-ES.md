@@ -39,7 +39,11 @@ En el README principal (normalmente en inglés), puedes incluir enlaces a las ve
    
 Otra opción es mantener todas las traducciones en un único archivo README.md. Puedes organizar el contenido en secciones, cada una dedicada a un idioma específico. Esto es útil para proyectos pequeños o cuando las traducciones no son extensas.
 
-## Enfoque en un Solo Archivo  
+## Enfoque en un Solo Archivo 
+
+ * [English](#English)
+ * [Português](#Português)
+ * [Español](#Español)
 
 ### English  
 [English version of the README content]  
