@@ -12,7 +12,9 @@ A forma mais simples e direta de suportar múltiplas línguas é criar versões 
 
 No README principal (geralmente em inglês), pode incluir links para as versões traduzidas:
 
-# README em Diferentes Idiomas  
+# README em Diferentes Idiomas
+
+(Choose your language below / Escolha o seu idioma abaixo / Elija su idioma abajo)
 - [![English](https://img.shields.io/badge/Language-English-blue)](README.md)
 - [![Português](https://img.shields.io/badge/Language-Português-green)](README.pt-PT.md)
 - [![Español](https://img.shields.io/badge/Language-Español-red)](README.es-ES.md)
