@@ -38,6 +38,10 @@ Another approach is to keep all translations in a single README.md file. You can
 
 ## Single-File Approach
 
+ * [English](#English)
+ * [Português](#Português)
+ * [Español](#Español)
+
 ### English  
 [English version of the README content]  
 
