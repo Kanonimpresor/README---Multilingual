@@ -1,6 +1,12 @@
 # README---Multilingual - Español (ES-ES)
 Cómo Hacer que README.md Sea Multilingüe
 
+#### (Choose your language below / Escolha o seu idioma abaixo / Elija su idioma abajo)
+[![English](https://img.shields.io/badge/Language-English-blue)](README.md)
+[![Português](https://img.shields.io/badge/Language-Português-green)](README.pt-PT.md)
+[![Español](https://img.shields.io/badge/Language-Español-red)](README.es-ES.md)
+---
+
 ### 📌 Sobre Este Proyecto
 
 Esta es una plantilla de README.md multilingüe para proyectos en GitHub. Permite a los desarrolladores ofrecer documentación en varios idiomas de manera eficiente.
