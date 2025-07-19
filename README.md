@@ -12,7 +12,9 @@ The simplest and most straightforward way to support multiple languages is to cr
 
 In the main README (usually in English), you can provide links to translated versions:
 
-# README in Different Languages  
+# README in Different Languages
+
+(Choose your language below / Escolha o seu idioma abaixo / Elija su idioma abajo)
 - [![English](https://img.shields.io/badge/Language-English-blue)](README.md)
 - [![Português](https://img.shields.io/badge/Language-Português-green)](README.pt-PT.md)
 - [![Español](https://img.shields.io/badge/Language-Español-red)](README.es-ES.md)
