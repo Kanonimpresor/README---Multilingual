@@ -41,6 +41,10 @@ Outra abordagem é manter todas as traduções num único ficheiro README.md. Po
 
 ## Abordagem em Único Ficheiro 
 
+ * [English](#English)
+ * [Português](#Português)
+ * [Español](#Español)
+
 ### English  
 [English version of the README content]  
 
