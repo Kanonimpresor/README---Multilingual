@@ -42,5 +42,5 @@ Para una solución avanzada, puedes usar GitHub Actions u otros scripts automati
 ### 4. Internacionalización (i18n) con Herramientas Externas
 También existen herramientas de i18n que ayudan a gestionar y automatizar traducciones de archivos de documentación, incluido README.md. Estas herramientas pueden integrarse en tu flujo de trabajo para simplificar el mantenimiento de múltiples versiones del README en diferentes idiomas.
 
-Conclusión
+### Conclusión
 Soportar múltiples idiomas en tu README.md es una inversión que puede hacer que tu proyecto sea más inclusivo y accesible. Elige el enfoque que mejor se adapte al tamaño y las necesidades de tu proyecto, asegurando que usuarios de diferentes regiones puedan interactuar con él de manera efectiva.
