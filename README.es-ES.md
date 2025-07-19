@@ -1,16 +1,21 @@
 # README---Multilingual - Español (ES-ES)
 Cómo Hacer que README.md Sea Multilingüe
 
+### 📌 Sobre Este Proyecto
+
+Esta es una plantilla de README.md multilingüe para proyectos en GitHub. Permite a los desarrolladores ofrecer documentación en varios idiomas de manera eficiente.
+
 Al crear mi primer proyecto en GitHub, descubrí el concepto de README.md, un archivo importante que ilustra y describe todo el proyecto en GitHub. Al elaborar este documento, me pregunté cómo hacerlo disponible en diferentes idiomas, ya que los proyectos pueden ser vistos por usuarios de todo el mundo. En este artículo, aprende cómo hacer que las descripciones de tus proyectos sean multilingües y por qué es importante para la accesibilidad.
 
 ### 1. Creación de Archivos README Separados
+
 La forma más sencilla y directa de soportar múltiples idiomas es crear archivos README.md separados para cada idioma. Cada archivo debe seguir la convención README.lang.md, donde lang representa el código del idioma (ej: en para inglés, pt para portugués, es para español). Por ejemplo:
 
-README.md (predeterminado)
+Crea archivos como README.[CÓDIGO-IDIOMA].md (ej: README.es-ES.md, README.pt-PT.md)
 
-README.es.md (español)
-
-README.pt.md (portugués)
+- README.md (predeterminado)
+- README.es-ES.md (español)
+- README.pt-PT.md (portugués)
 
 En el README principal (normalmente en inglés), puedes incluir enlaces a las versiones traducidas:
 
@@ -22,19 +27,22 @@ En el README principal (normalmente en inglés), puedes incluir enlaces a las ve
 - [![Español](https://img.shields.io/badge/Language-Español-red)](README.es-ES.md)
 ---
 
-2. Secciones Multilingües en un Solo README
+🌐 Cómo Usar READMEs Multilingües -> Archivos Separados (Recomendado) -> Enlázalos en el README.md principal (ver ejemplo arriba).
+
+### 2. Secciones Multilingües en un Solo README
+   
 Otra opción es mantener todas las traducciones en un único archivo README.md. Puedes organizar el contenido en secciones, cada una dedicada a un idioma específico. Esto es útil para proyectos pequeños o cuando las traducciones no son extensas.
 
-# Nombre del Proyecto  
+## Enfoque en un Solo Archivo  
 
-## English  
-[Versión en inglés del contenido del README]  
+### English  
+[English version of the README content]  
 
-## Português  
+### Português  
 [Versão em português do conteúdo do README]  
 
-## Español  
-[Versión en español del contenido del README]
+### Español  
+[Versión en español del contenido del README]  
 
 ---
 
