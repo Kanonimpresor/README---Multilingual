@@ -3,7 +3,7 @@ Cómo Hacer que README.md Sea Multilingüe
 
 Al crear mi primer proyecto en GitHub, descubrí el concepto de README.md, un archivo importante que ilustra y describe todo el proyecto en GitHub. Al elaborar este documento, me pregunté cómo hacerlo disponible en diferentes idiomas, ya que los proyectos pueden ser vistos por usuarios de todo el mundo. En este artículo, aprende cómo hacer que las descripciones de tus proyectos sean multilingües y por qué es importante para la accesibilidad.
 
-1. Creación de Archivos README Separados
+### 1. Creación de Archivos README Separados
 La forma más sencilla y directa de soportar múltiples idiomas es crear archivos README.md separados para cada idioma. Cada archivo debe seguir la convención README.lang.md, donde lang representa el código del idioma (ej: en para inglés, pt para portugués, es para español). Por ejemplo:
 
 README.md (predeterminado)
@@ -36,10 +36,10 @@ Otra opción es mantener todas las traducciones en un único archivo README.md. 
 
 ---
 
-3. Uso de GitHub Actions para Cambiar de Idioma
+### 3. Uso de GitHub Actions para Cambiar de Idioma
 Para una solución avanzada, puedes usar GitHub Actions u otros scripts automatizados para detectar el idioma preferido del visitante y mostrar el README correspondiente. Esto requiere crear un script que actualice el README.md principal según el idioma seleccionado, aunque es una opción más compleja y menos común.
 
-4. Internacionalización (i18n) con Herramientas Externas
+### 4. Internacionalización (i18n) con Herramientas Externas
 También existen herramientas de i18n que ayudan a gestionar y automatizar traducciones de archivos de documentación, incluido README.md. Estas herramientas pueden integrarse en tu flujo de trabajo para simplificar el mantenimiento de múltiples versiones del README en diferentes idiomas.
 
 Conclusión
