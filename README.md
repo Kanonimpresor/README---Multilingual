@@ -38,5 +38,5 @@ For an advanced solution, you can use GitHub Actions or other automated scripts 
 ### 4. Internationalization (i18n) with External Tools
 There are also i18n tools that help manage and automate translations for documentation files, including README.md. These tools can be integrated into your workflow to simplify maintaining multiple README versions in different languages.
 
-Conclusion
+### Conclusion
 Supporting multiple languages in your README.md is an investment that can make your project more inclusive and accessible. Choose the approach that best fits your project's size and needs, ensuring users from different regions can interact with it effectively.
