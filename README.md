@@ -3,7 +3,7 @@ How to Make README.md Multilingual
 
 When creating my first GitHub project, I was introduced to the concept of README.md, an important file that illustrates and describes your entire project on GitHub. While working on this document, I wondered how to make it available in different languages, since projects can easily be viewed by users worldwide. In this article, learn how to make your project descriptions multilingual and why this is important for accessibility.
 
-1. Creating Separate README Files
+### 1. Creating Separate README Files
 The simplest and most straightforward way to support multiple languages is to create separate README.md files for each language. Each file should follow the naming convention README.lang.md, where lang represents the language code (e.g., en for English, pt for Portuguese, es for Spanish). For example:
 
 - README.md (default)
@@ -32,10 +32,10 @@ Another approach is to keep all translations in a single README.md file. You can
 [Versión en español del contenido del README]
 
 ---
-3. Using GitHub Actions to Switch Languages
+### 3. Using GitHub Actions to Switch Languages
 For an advanced solution, you can use GitHub Actions or other automated scripts to detect a visitor's preferred language and display the corresponding README. This requires creating a script that updates the main README.md based on the selected language, though it is a more complex and less common option.
 
-4. Internationalization (i18n) with External Tools
+### 4. Internationalization (i18n) with External Tools
 There are also i18n tools that help manage and automate translations for documentation files, including README.md. These tools can be integrated into your workflow to simplify maintaining multiple README versions in different languages.
 
 Conclusion
