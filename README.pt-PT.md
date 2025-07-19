@@ -29,16 +29,20 @@ No README principal (geralmente em inglês), pode incluir links para as versões
 
 🌐 Como Usar READMEs Multilíngues -> Ficheiros Separados (Recomendado) -> ligue-os no README.md principal (ver exemplo acima).
 
-## Abordagem em Único Ficheiro
+### 2. Secções Multilíngues num Único README
+   
+Outra abordagem é manter todas as traduções num único ficheiro README.md. Pode organizar o conteúdo em secções, cada uma dedicada a um idioma específico. Isto é útil para projetos pequenos ou quando as traduções não são extensas.
 
-- ## English Section  
-Content here...  
+## Abordagem em Único Ficheiro 
 
-- ## Português (pt-PT)  
-Conteúdo aqui...  
+### English  
+[English version of the README content]  
 
-- ## Español (es-ES)  
-Contenido aquí...
+### Português  
+[Versão em português do conteúdo do README]  
+
+### Español  
+[Versión en español del contenido del README]  .
 
 ---
 ### 3. Uso de GitHub Actions para Alternar Idiomas
